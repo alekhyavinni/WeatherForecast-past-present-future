@@ -56,7 +56,11 @@ Each pipeline is designed to be scheduled and run daily, ensuring that the weath
   
 - **Visualizations**:
   - Temperature data per postal code enabled the creation of visualizations to reveal trends over time, which can inform logistical planning or time-sensitive meteorological research.
+   ![Weather Data Table](./data/weather3.png)
    ![Weather Data Table](./data/heatindex.png)
+   ![Weather Data Table](./data/weather3.png)
+
+
 
 ## Conclusion
 This project successfully integrates weather data collection and processing using APIs, providing valuable insights for various applications. The challenges encountered were addressed to ensure the consistency and usefulness of the weather data.
@@ -76,4 +80,4 @@ This project successfully integrates weather data collection and processing usin
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Copyrights
-
+Alekhya Erikipati ©2024 All Rights Reserved.
