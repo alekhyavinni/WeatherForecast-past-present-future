@@ -58,7 +58,7 @@ Each pipeline is designed to be scheduled and run daily, ensuring that the weath
   - Temperature data per postal code enabled the creation of visualizations to reveal trends over time, which can inform logistical planning or time-sensitive meteorological research.
    ![Weather Data Table](./data/weather3.png)
    ![Weather Data Table](./data/heatindex.png)
-   ![Weather Data Table](./data/weather3.png)
+   ![Weather Data Table](./data/postal%20code.png)
 
 
 
